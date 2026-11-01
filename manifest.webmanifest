@@ -1,0 +1,17 @@
+{
+  "name": "BATTLEXA Gaming Arena",
+  "short_name": "BATTLEXA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090c0a",
+  "theme_color": "#090c0a",
+  "description": "Enter. Compete. Conquer.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
